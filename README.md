@@ -4,7 +4,7 @@ A neon cyberpunk / Miami Vice inspired theme for [OpenCode](https://opencode.ai)
 
 ## Preview
 
-[View swatch →](swatch.html)
+![alexander theme swatch](swatch.png)
 
 Dark mode with electric cyan, magenta, green, and yellow highlights on a deep navy background. Warm orange-red for errors and structural elements. Near-white text for readability.
 

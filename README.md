@@ -1,6 +1,6 @@
 # alexander
 
-A neon cyberpunk / Miami Vice inspired theme for [OpenCode](https://opencode.ai).
+Person [OpenCode](https://opencode.ai) theme. Neon cyberpunk / Miami Vice type vibe. :chefkiss: 
 
 ## Preview
 

@@ -29,7 +29,7 @@ Dark mode with electric cyan, magenta, green, and yellow highlights on a deep na
 | `text-muted` | `#7A8090` | Muted text |
 | `text-dim` | `#5A6070` | Comments, subdued text |
 
-[View full swatch →](swatch.svg)
+[View full theme →](alexander.json)
 
 ## Installation
 

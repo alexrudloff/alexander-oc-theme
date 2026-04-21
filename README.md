@@ -4,7 +4,7 @@ A neon cyberpunk / Miami Vice inspired theme for [OpenCode](https://opencode.ai)
 
 ## Preview
 
-![alexander theme swatch](swatch.png)
+![alexander theme swatch](swatch.svg)
 
 Dark mode with electric cyan, magenta, green, and yellow highlights on a deep navy background. Warm orange-red for errors and structural elements. Near-white text for readability.
 
@@ -12,18 +12,22 @@ Dark mode with electric cyan, magenta, green, and yellow highlights on a deep na
 
 ### Dark Mode
 
-| Color | Hex | Usage |
+| Token | Hex | Usage |
 |-------|-----|-------|
-| <span style="display:inline-block;width:12px;height:12px;background:#0E1422;border-radius:2px;vertical-align:middle"></span> | `#0E1422` | Main background |
-| <span style="display:inline-block;width:12px;height:12px;background:#161922;border-radius:2px;vertical-align:middle"></span> | `#161922` | Sidebar background |
-| <span style="display:inline-block;width:12px;height:12px;background:#FF6B4A;border-radius:2px;vertical-align:middle"></span> | `#FF6B4A` | Error, keywords, operators |
-| <span style="display:inline-block;width:12px;height:12px;background:#00D4FF;border-radius:2px;vertical-align:middle"></span> | `#00D4FF` | Primary, syntax functions |
-| <span style="display:inline-block;width:12px;height:12px;background:#D946FF;border-radius:2px;vertical-align:middle"></span> | `#D946FF` | Accent, syntax types |
-| <span style="display:inline-block;width:12px;height:12px;background:#FFE600;border-radius:2px;vertical-align:middle"></span> | `#FFE600` | Warning, numbers |
-| <span style="display:inline-block;width:12px;height:12px;background:#00E5FF;border-radius:2px;vertical-align:middle"></span> | `#00E5FF` | Info, syntax variables |
-| <span style="display:inline-block;width:12px;height:12px;background:#39FF14;border-radius:2px;vertical-align:middle"></span> | `#39FF14` | Success, strings |
+| `bg-primary` | `#0E1422` | Main background |
+| `bg-panel` | `#161922` | Sidebar background |
+| `coral` | `#FF6B4A` | Error, keywords, operators |
+| `blue` | `#00D4FF` | Primary, syntax functions |
+| `purple` | `#D946FF` | Accent, syntax types |
+| `gold` | `#FFE600` | Warning, numbers |
+| `sky` | `#00E5FF` | Info, syntax variables |
+| `green` | `#39FF14` | Success, strings |
+| `text-bright` | `#F0F2F5` | Primary text |
+| `text-normal` | `#D8DCE4` | Secondary text |
+| `text-muted` | `#7A8090` | Muted text |
+| `text-dim` | `#5A6070` | Comments, subdued text |
 
-[View full swatch →](swatch.html)
+[View full swatch →](swatch.svg)
 
 ## Installation
 
@@ -52,7 +56,7 @@ Download [alexander.json](https://raw.githubusercontent.com/alexrudloff/alexande
 - OpenCode >= latest
 - Terminal with **truecolor** (24-bit) support
 
-Check with: `echo $COLORTERM` — should output `truecolor` or `24bit`.
+Check with: `echo $COLORTERM` - should output `truecolor` or `24bit`.
 
 ## License
 

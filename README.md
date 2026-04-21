@@ -1,6 +1,8 @@
 # alexander
 
-Person [OpenCode](https://opencode.ai) theme. Neon cyberpunk / Miami Vice type vibe. :chefkiss: 
+Personal [OpenCode](https://opencode.ai) theme. Neon cyberpunk / Miami Vice type vibe. 
+
+:chefkiss: 
 
 ## Preview
 
